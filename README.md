@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/jared-moser-b8377988/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-With a strong focus on **Architecture & Engineering**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
+With a strong focus on **Architecture & Engineering**, I thrive on building high-performing architecture and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience**, **security**, as well as **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
 
 🔭 Leading teams on transformative projects to reshape industries.
 
