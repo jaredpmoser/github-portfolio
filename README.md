@@ -27,9 +27,9 @@ export default () => ({
   pubKey: "866E 3ED1 217B 85DC",
   school: "Webster University by way of Hard Knocks",
   askMeAbout: [
-    "llm", "devops",
-    "mathematics", "research"
-    "webdev", "nlp", "data",
+    "llm", "devops", "ai", "ml", 
+    "mathematics", "architecture"
+    "azure", "gcp", "aws",
   ],
   technologies: {
     "languages": [ "C++", "Python", "Java", "C#", "JavaScript",
