@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=777BB4)
 ![GoLang](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&color=777BB4)
+![Terraform](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&color=777BB4)
 ![GCP](https://img.shields.io/badge/System-GCP-informational?style=flat&logo=gcp&color=FCC624)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 ![AWS](https://img.shields.io/badge/System-ASW-informational?style=flat&logo=aws&color=FCC624)
