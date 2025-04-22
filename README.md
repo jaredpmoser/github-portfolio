@@ -22,10 +22,41 @@ With a strong focus on **Architecture & Engineering**, I thrive on building high
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const eng = {
-  code: [Javascript, Typescript, HTML, CSS, GoLang, Python, Java, Terraform],
-  tools: [React, Node, Storybook, Docker, Kubbernettes],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
+export default () => ({
+  pronouns: "He" | "Him",
+  pubKey: "866E 3ED1 217B 85DC",
+  school: "Webster University by way of Hard Knocks",
+  askMeAbout: [
+    "llm", "devops",
+    "mathematics", "research"
+    "webdev", "nlp", "data",
+  ],
+  technologies: {
+    "languages": [ "C++", "Python", "Java", "C#", "JavaScript",
+                   "TypeScript", "Go", "Rust", "Bash", "YAML",
+                   "SQL", "HTML", "CSS", "PHP" ],
+    "web": [ "Django", "React", "Angular" "Python", 
+             "Express.js", "Node.js", "jQuery",
+             "WebPack", "Babel", "Axios", "Bootstrap", "Materialize CSS",
+             "WordPress", "Drupal", "Spring MVC", "ASP.NET Core", "ASP.NET MVC" ],
+    "databases": [ "PostgreSQL", "MariaDB/MySQL", "TSQL", "PL/SQL",
+                   "IBM DB2", "MongoDB", "Cloud Firestore", "Cassandra",
+                   "Memcached", "ElasticSearch", "Redis", "SQLite", CosmoDB ],
+    "applications": [ "GDAL", "QGIS", "Autodesk EAGLE", "LaTeX", "Adobe CC", "Microsoft Office" ],
+    "mathematicsAndStatistics": [ "R", "Stata", "SPSS", "MATLAB", "Mathematica", "NumPy" ],
+    "machineLearning": [ "Tensorflow", "Keras", "PyTorch", "IBM Watson" ],
+    "toolchains": [ "VCPKG", "CMake", "NPM", "Yarn", "NuGet", "Docker", "Kubernetes" ],
+    "devOps": [ "Git", "Jenkins", "Travis CI", "CircleCI", "Gitlab CI", "AppVeyor CI" ],
+    "cloudOps": [ "AWS", "GCP", "Azure", "Oracle Cloud", "IBM Cloud" ],
+    "operatingSystems": [ "GNU/Linux", "BSD", "Unix", "Windows" ],
+    "iot": [ "Arduino", "Azure Sphere", "Raspberry Pi", "NodeMCU" ],
+    "architectures": [ "Serverless", "Microservices", "Monolithic" ],
+    "mobile": [ "Android", "Flutter", "Firebase" ],
+    "editors": [ "VSCode", "ViM", "Emacs" ]
+  },
+  memberships: [
+    "Veterans of Foreign Wars",
+  ]
+});
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
