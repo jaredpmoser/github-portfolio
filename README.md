@@ -83,6 +83,7 @@ export default () => ({
   },
   memberships: [
     "Veterans of Foreign Wars",
+    "Incline Golf Club",
   ]
 });
 ```
