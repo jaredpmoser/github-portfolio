@@ -30,7 +30,7 @@
 ![Terraform](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&color=777BB4)
 ![GCP](https://img.shields.io/badge/System-GCP-informational?style=flat&logo=gcp&color=4285F4)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-![AWS](https://img.shields.io/badge/System-ASW-informational?style=flat&logo=aws&color=FF9900)
+![AWS](https://img.shields.io/badge/System-AWS-informational?style=flat&logo=aws&color=FF9900)
 ![Linux](https://img.shields.io/badge/System-Azure-informational?style=flat&logo=azure&color=007fff)
 
 📫 **Reach out to Me:**
