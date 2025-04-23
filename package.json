@@ -1,0 +1,22 @@
+{
+  "name": "luster",
+  "version": "1.0.0",
+  "description": "briliant web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredpmoser/github-portfolio.git"
+  },
+  "author": "Jared P. Moser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredpmoser/github-portfolio/issues"
+  },
+  "homepage": "https://github.com/jaredpmoser/github-portfolio#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
