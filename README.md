@@ -34,11 +34,11 @@
 ![Linux](https://img.shields.io/badge/System-Azure-informational?style=flat&logo=azure&color=007fff)
 
 📫 **Reach out to Me:**
-<!-- Calendly link widget begin -->
+<!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaredpmoser/30min'});return false;">Schedule time with me</a>
-<!-- Calendly link widget end -->
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/jaredpmoser/30min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff' }); }</script>
+<!-- Calendly badge widget end -->
 
 <p>
 <a href="https://www.linkedin.com/in/jared-moser-b8377988/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
