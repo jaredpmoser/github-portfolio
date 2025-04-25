@@ -34,8 +34,8 @@
 ![Linux](https://img.shields.io/badge/System-Azure-informational?style=flat&logo=azure&color=007fff)
 
 📫 **Reach out to Me:**
-<a href="https://calendly.com/jaredpmoser/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 <p>
+ <a href="https://calendly.com/jaredpmoser/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 <a href="https://www.linkedin.com/in/jared-moser-b8377988/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
