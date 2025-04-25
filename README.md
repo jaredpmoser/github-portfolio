@@ -88,16 +88,6 @@ export default () => ({
 ```
 
 
-<!-- Calendly inline widget begin -->
-<style>
-.calendly-inline-widget { height: 950px; min-width: 320px } 
-@media only screen and (min-width: 700px) and (max-width:1060px) {
-    .calendly-inline-widget { height: 1050px }
-}
-@media only screen and (min-width: 1060px) {
-    .calendly-inline-widget { height: 650px }
-}
-</style>
 <div class="calendly-inline-widget" data-url="https://calendly.com/jaredpmoser?text_color=000000&primary_color=1e3c9f"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
